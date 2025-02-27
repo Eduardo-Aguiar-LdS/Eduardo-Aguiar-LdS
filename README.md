@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Aguiar-LdS&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-Aguiar-LdS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blueberry&hide_border=false&order=2" height="165" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Eduardo-Aguiar-LdS&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eduardo-Aguiar-LdS&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 
 ###
